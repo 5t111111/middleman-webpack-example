@@ -1,1 +1,2 @@
-//= require_tree .
+import 'babel-polyfill';
+import 'hello';
